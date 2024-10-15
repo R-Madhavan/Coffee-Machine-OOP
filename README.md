@@ -1,6 +1,7 @@
-![CoffeeMakerEspressoGIF](https://github.com/user-attachments/assets/b2050178-9e0b-498e-ae7f-2c10d433b5c9)
-
-#<div style=center> Coffee Machine OOP <div>
+# <h1 align="center">Coffee Machine OOP</h1>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b2050178-9e0b-498e-ae7f-2c10d433b5c9" alt="CoffeeMakerEspressoGIF">
+</p>
 
 This project is a simple Object-Oriented Programming (OOP) based coffee machine simulation in Python. It models a coffee machine that prepares various drinks, manages resources (water, milk, coffee), and handles payment transactions.
 
